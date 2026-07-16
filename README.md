@@ -1,4 +1,4 @@
-# okta_p1: In this guide you will learn how to: 
+# Okta_User_Import_Profile Management_Group Automation 
 Onboard users to Okta using the Okta Dashboard. 
 Set their password to require a change on first login. 
 Add custom attribute. 
